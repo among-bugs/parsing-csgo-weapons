@@ -1,0 +1,18 @@
+{
+  "name": "csgo-weapons-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "su1t",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "got": "^10.4.0",
+    "jest-environment-jsdom": "^27.5.1",
+    "jsdom": "^16.2.2",
+    "mongodb": "^4.3.1"
+  }
+}
