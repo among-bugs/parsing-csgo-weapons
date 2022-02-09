@@ -1,9 +1,9 @@
 {
   "name": "csgo-weapons-parser",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "parsing.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node parsing.js"
   },
   "keywords": [],
   "author": "su1t",
